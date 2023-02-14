@@ -4,4 +4,9 @@ class lauch
       {
                    //some code
       }
+      void m2()
+      {
+
+            //another code 
+      }
 }
